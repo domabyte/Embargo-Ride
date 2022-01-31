@@ -47,7 +47,8 @@
     "styled-components": "^5.3.3",
     "transform-loader": "^0.2.4",
     "web-vitals": "^1.1.2",
-    "webworkify-webpack": "^2.1.5"
+    "webworkify-webpack": "^2.1.5",
+    "worker-loader": "^3.0.8"
   },
   "scripts": {
     "start": "react-scripts start",
